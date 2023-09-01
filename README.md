@@ -8,7 +8,7 @@
 - 🌐 Proficient in both manual and automation testing.
 - 🧪 Strong knowledge of Test Design, Functional Testing, and Bug Lifecycle Management.
 - 🤖 Skilled in automation tools like Selenium WebDriver, Cypress, Playwright, and Rest Assured.
-- 📊 Experienced in Agile Scrum and TFS for project management and defect tracking.
+- 📊 Experienced in Agile Scrum and TFS & Jira for project management and defect tracking.
 - 🛠️ Proficient with Git, GitHub, and Jenkins.
 - 🤝 Collaborative team player with strong analytical and technical skills.
 - 🏆 Recipient of "Hats Off" and "A Team" awards for exceptional work.
@@ -27,6 +27,7 @@
   - Manual testing
   - Selenium WebDriver
   - Postman
+  - Playwright 
 
 ## My Technology Stack
 
