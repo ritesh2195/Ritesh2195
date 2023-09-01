@@ -21,7 +21,7 @@
   - Understanding the User stories requirements.
   - Designing test cases and executing them.
   - Automating applicable manual test cases using Selenium WebDriver and API manual cases using Postman.
-  - Raised more than 150 defects, including showstopper defects, which improved product quality.
+  - Raised more than no of defects, including showstopper defects, which improved product quality.
 
 - 🛠️ Skills used:
   - Manual testing
