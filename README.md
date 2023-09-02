@@ -43,6 +43,10 @@
 - 📧 Email: ritesh.ranjan21@hotmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-ranjan-mishra-095213107/
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh2195&show_icons=true&locale=en" alt="ritesh2195" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh2195&" alt="ritesh2195" /></p>
+
 ## Let's Connect!
 Feel free to explore my repositories and connect with me. I'm always open to collaborations and discussions related to testing, automation, and software quality.
 
