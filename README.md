@@ -13,22 +13,6 @@
 - 🤝 Collaborative team player with strong analytical and technical skills.
 - 🏆 Recipient of "Hats Off" and "A Team" awards for exceptional work.
 
-## My Projects
-
-### Project 1: Real Estate Domain (May 2021 - Present)
-
-- 📝 Responsibilities:
-  - Understanding the User stories requirements.
-  - Designing test cases and executing them.
-  - Automating applicable manual test cases using Selenium WebDriver and API manual cases using Postman.
-  - Raised more than no of defects, including showstopper defects, which improved product quality.
-
-- 🛠️ Skills used:
-  - Manual testing
-  - Selenium WebDriver
-  - Postman
-  - Playwright 
-
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
