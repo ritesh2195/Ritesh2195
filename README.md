@@ -1,4 +1,4 @@
-# Ritesh Ranjan Mishra s GitHub Profile
+# Ritesh Ranjan Mishra's GitHub Profile
 
 👋 Welcome to my GitHub profile! I'm Ritesh Ranjan Mishra, a passionate Test Engineer with 2.4 years of experience at LTIMindtree. I specialize in manual and automation testing for web and mobile applications, and I'm dedicated to ensuring software quality and delivering top-notch products.
 
