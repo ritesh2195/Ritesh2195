@@ -22,7 +22,7 @@
  <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" 
  alt="Playwright" width="40" height="40"/> <a href="https://rest-assured.io/"
  target="_blank" rel="noreferrer"> 
- <img src="https://devqa.io/assets/images/rest-assured-get-post-put-patch-delete.png" 
+ <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" 
  alt="Rest Assured" width="50" height="40"/> <a href="https://www.postman.com/"
  target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" 
