@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👨‍💻 Test Engineer with 2.4 years of experience.
+- 👨‍💻 Test Engineer with 2.5 years of experience.
 - 🌐 Proficient in both manual and automation testing.
 - 🧪 Strong knowledge of Test Design, Functional Testing, and Bug Lifecycle Management.
 - 🤖 Skilled in automation tools like Selenium WebDriver, Cypress, Playwright, and Rest Assured.
