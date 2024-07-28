@@ -34,7 +34,7 @@
 ## Contact Me
 
 - 📧 Email: ritesh.ranjan21@hotmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-ranjan-mishra-095213107/
+- 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-mishra95/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh2195&show_icons=true&locale=en" alt="ritesh2195" /></p>
 
